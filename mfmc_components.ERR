@@ -1,0 +1,6 @@
+Component Rule Check Report for : D:\YandexDisk\Project\mfmc_component_library\mfmc_components.SchLib
+
+
+Name                Errors
+------------------------------------------------------------------
+ESP32-WROOM-32U     (Missing Pin Number In Sequence : 15,32 [2..37]) 
